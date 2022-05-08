@@ -25,13 +25,13 @@ Conclusions for "Citibike Story" are:
 
 2. The Pie-Charts caption shows that Male Subscribers make up the majority of Citibike Users.
 
-3. The 2 captions for Hours of Use - Gender show that Males make up the majority of Citibike Users from 7-9 am. & 5-7 pm weekday. Weekend counts are lower.
+3. The 2 captions for Hours of Use - Gender show that Males make up the majority of Citibike Users from 7-9 am. & 5-7 pm weekdays. Weekend counts are lower.
 
 4. The Start/End Locations captions show very similar maps, which suggest that the Pick-up & Drop-off locations are the same.
 
-5. The Checkout Times caption shows average checkout times of 5 mins for all users, 5 mins for males, users, and 6 mins for female users. This observation should be addressed.
+5. The Checkout Times caption shows average checkout times of 5 mins for all users, 5 mins for males users, and 6 mins for female users. This observation should be addressed.
 
-6. The high weekday usage from 7-9  am. and 5-7 pm. by Male Subscibers indicates that Citibike serves primiarly as a tranportation convenience  for men in NYC - particularly in Manhattan during August 2019.
+6. The high weekday usage from 7-9 am. and 5-7 pm. by Male Subscibers indicates that Citibike serves primiarly as a work tranportation convenience for men in NYC - particularly in Manhattan during August 2019.
 
 7. The remaining 11 months should be analyzed to determine annual user counts. NYC has many months of cold, rainy, & snowy weather, which are not conducive to bicycle transport. The Des Moines weather could present similar challenges for many months of the year.
 
