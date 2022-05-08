@@ -31,7 +31,7 @@ Conclusions for "Citibike Story" are:
 
 5. The Checkout Times caption shows average checkout times of 5 mins for all users, 5 mins for males users, and 6 mins for female users. This observation should be addressed.
 
-6. The high weekday usage from 7-9 am. and 5-7 pm. by Male Subscibers indicates that Citibike serves primiarly as a work tranportation convenience for men in NYC - particularly in Manhattan during August 2019.
+6. The high weekday usage from 7-9 am. and 5-7 pm. by Male Subscibers indicates that Citibike serves primarily as a work tranportation convenience for men in NYC - particularly in Manhattan during August 2019.
 
 7. The remaining 11 months should be analyzed to determine annual user counts. NYC has many months of cold, rainy, & snowy weather, which are not conducive to bicycle transport. The Des Moines weather could present similar challenges for many months of the year.
 
