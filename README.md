@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 # Citibike - A bikesharing company in New York City.
 
 ## Reviewed various Citibike metrics from August 2019 for feasability in Des Moines, Iowa.
 
 ## 3 Deliverables
 ###     Deliverable 1: Change Trip Duration to Datatime Format - see NYC_Citibike_Challenge.ipynb file & screen captures.
-###     Deliverable 2: See link "https://drive.google.com/file/d/1h0YWCumY3tcaOSDn65y_eWN1M1zpauJ2/view?usp=sharing"
+###     Deliverable 2: See link "https://public.tableau.com/app/profile/stephen.levy/viz/Mod_14-challenge/CitibikeStory?publish=yes"
 ###     Deliverable 3: "Citibank Story" (see above link).
 
     1. The Dataframe/CSV file produced for Deliverable 1 and used as input for Deliverable 2 VIZs is called: "201908-Citibike-tripdata_2" 
-       The google link to this file is: 'https://drive.google.com/file/d/0B4DR0-vwOtJDOEtUazBjTEdEcWM/view?usp=sharing&resourcekey=0-TND_mupfiXEkCGTw_Hlg_g"
+       The google link to this file is: "https://drive.google.com/file/d/1h0YWCumY3tcaOSDn65y_eWN1M1zpauJ2/view?usp=sharing"
        The original input file can be downloaded from Module 14. Note that these 2 data files were too big to push to GitHub.
 
     2. See ViZs in "https://public.tableau.com/app/profile/stephen.levy/viz/Mod_14-challenge/CitibikeStory?publish=yes" for Deliverable 2.
@@ -50,6 +49,8 @@ Conclusions for "Citibike Story" are:
 
 
 
+<<<<<<< HEAD
+=======
 =======
 # Citibike - A bikesharing company in New York City.
 
@@ -102,3 +103,4 @@ Conclusions for "Citibike Story" are:
 
 
 >>>>>>> cbfb831b544e1ac5b74f5d8489e0b44db0991575
+>>>>>>> 049a5e0d375885a4bc5260c12c6dc376e5100883
